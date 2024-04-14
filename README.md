@@ -1,4 +1,4 @@
-# Uniter_PHP
+# Uniter
 
 Utilitaires pour réaliser des tests unitaires en PHP et obtenir les résultats en CSV ou JSON.
 
